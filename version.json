@@ -1,7 +1,7 @@
 {
-  "latestVersion": "0.3.5",
-  "versionCode": 61,
-  "minVersionCode": 61,
-  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.5/Haoya-v0.3.5+61-20260705-163332-5d90.apk",
-  "releaseNotes": "fix: restore avatar edit icon on profile page\n\n- Wrap avatar in GestureDetector + Stack with Positioned edit icon\n- Add analyzer exclude paths in analysis_options.yaml\n- Add --notes CLI option to release.sh"
+  "latestVersion": "0.3.7",
+  "versionCode": 63,
+  "minVersionCode": 63,
+  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.7/Haoya-v0.3.7+63-20260705-180454-42c6.apk",
+  "releaseNotes": "fix: 音标添加 / / 包围；修复翻译中字面 \\n 显示问题；修复 releaseNotes JSON 转义"
 }
