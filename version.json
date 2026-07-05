@@ -1,7 +1,7 @@
 {
-  "latestVersion": "0.3.11",
-  "versionCode": 67,
-  "minVersionCode": 67,
-  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.11/Haoya-v0.3.11+67-20260706-004142-7bde.apk",
-  "releaseNotes": "chore: bump version to 0.3.11+67 (signed release)"
+  "latestVersion": "0.3.12",
+  "versionCode": 68,
+  "minVersionCode": 68,
+  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.12/Haoya-v0.3.12+68-20260706-075740-604f.apk",
+  "releaseNotes": "chore: bump version to 0.3.12+68"
 }
