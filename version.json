@@ -1,7 +1,11 @@
 {
-  "latestVersion": "0.3.3",
-  "versionCode": 59,
-  "minVersionCode": 59,
-  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.3/Haoya-v0.3.3+59-20260705-155148-7882.apk",
-  "releaseNotes": "全面切换到 ECDICT 离线词典；重构生词本（中文释义+考试标签）；删除所有 CEFR 概念；AI 人设大换血为 8 角色（考试等级）；优化 RSS 生成参数"
+  "latestVersion": "0.3.5",
+  "versionCode": 61,
+  "minVersionCode": 61,
+  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.5/Haoya-v0.3.5+61-20260705-163332-5d90.apk",
+  "releaseNotes": "fix: restore avatar edit icon on profile page
+
+- Wrap avatar in GestureDetector + Stack with Positioned edit icon
+- Add analyzer exclude paths in analysis_options.yaml
+- Add --notes CLI option to release.sh"
 }
