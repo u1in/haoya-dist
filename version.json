@@ -3,9 +3,5 @@
   "versionCode": 61,
   "minVersionCode": 61,
   "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.5/Haoya-v0.3.5+61-20260705-163332-5d90.apk",
-  "releaseNotes": "fix: restore avatar edit icon on profile page
-
-- Wrap avatar in GestureDetector + Stack with Positioned edit icon
-- Add analyzer exclude paths in analysis_options.yaml
-- Add --notes CLI option to release.sh"
+  "releaseNotes": "fix: restore avatar edit icon on profile page\n\n- Wrap avatar in GestureDetector + Stack with Positioned edit icon\n- Add analyzer exclude paths in analysis_options.yaml\n- Add --notes CLI option to release.sh"
 }
