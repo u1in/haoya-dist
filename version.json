@@ -1,7 +1,7 @@
 {
-  "latestVersion": "0.3.19",
-  "versionCode": 75,
-  "minVersionCode": 75,
-  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.19/Haoya-v0.3.19+75-20260709-090357-7a56.apk",
-  "releaseNotes": "• Bug fixes and improvements"
+  "latestVersion": "0.3.20",
+  "versionCode": 76,
+  "minVersionCode": 76,
+  "apkUrl": "https://github.com/u1in/haoya-dist/releases/download/v0.3.20/Haoya-v0.3.20+76-20260709-092752-7adb.apk",
+  "releaseNotes": "• 新增对照抄写功能：在 Review 润色内容后可展开输入框进行对照抄写练习"
 }
